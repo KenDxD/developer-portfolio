@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'OJT - Encoder',
-    company: "BFP Gensan",
-    duration: "(Dec 2018 - Jan 2019)"
+    company: "Bureau of Fire - Gensan",
+    duration: "(Nov 2018 - Jan 2019)"
   }
 ]
