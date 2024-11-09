@@ -3,7 +3,7 @@ export const contactsData = {
     phone: '+639276148948',
     address: 'General Santos City, Philippines 9500',
     github: 'https://github.com/kendxd',
-    facebook: 'https://www.facebook.com/crimson.kendxd',
+    facebook: 'https://www.facebook.com/crimsonkendxd',
     linkedIn: 'https://www.linkedin.com/in/kelvin-jay-jandog',
     twitter: 'https://twitter.com/crimsonkendxd',
     stackOverflow: '',
