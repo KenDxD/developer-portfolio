@@ -7,8 +7,8 @@ export const projectsData = [
     {
         id: 1,
         name: 'Web Based Management System for Alde Hardware',
-        description: "Me and my team built a Management System with POS. I have it using developed PHP, Javascript, HTML, and MSSQL. ",
-        tools: ['Express', 'MSSQL', 'XAMP', 'Remote Desktop', 'Apache'],
+        description: "Me and my team built a Management System with POS. I have it developed using PHP, Javascript, HTML, and MSSQL. ",
+        tools: ['Express', 'MSSQL Server 2019', 'XAMPP', 'Remote Desktop', 'Windows 10 IoT Enterprise 2021'],
         role: 'Full-stack Developer',
         code: '',
         demo: '',
