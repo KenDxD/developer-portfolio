@@ -10,4 +10,9 @@ export const personalData = {
   facebook: 'https://www.facebook.com/crimson.kendxd/',
   linkedIn: 'https://www.linkedin.com/in/kelvin-jay-jandog/',
   twitter: 'https://twitter.com/crimsonkendxd'
+  stackOverflow: 'https://stackoverflow.com',
+  leetcode: "https://leetcode.com/",
+  devUsername: "kenken",
+  resume: "https://drive.google.com"
+}
 }
